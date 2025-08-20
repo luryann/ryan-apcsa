@@ -5,7 +5,8 @@ class Main
     public static void main(String[] args)
     {
       Scanner scan = new Scanner(System.in);
-      String name1, name2, name3, name4;
+      String name1, name2, name3, name4; 
+      // Can stack these as such 
       
       System.out.println("Please enter four names:");
       
