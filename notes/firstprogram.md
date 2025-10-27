@@ -8,7 +8,7 @@ The Java code in U1_L2_Activity_One.java is a simple program that demonstrates h
 
 import java.util.Scanner;
 
-class U1_L2_Activity_One 
+class UsingScanner 
 {
   public static void main(String[] args) 
   {
