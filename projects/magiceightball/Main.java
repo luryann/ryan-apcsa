@@ -27,7 +27,7 @@ public class Main {
         input.close();
     }
 
-    public static String getAResponse() {
+    public static String getRandomAnswer() {
         String responses = "It is certain,Most likely,Ask again later,Outlook not so good,Yes,No";
         int randomNum = (int) (Math.random() * 6) + 1; // 1-6 inclusive
 
